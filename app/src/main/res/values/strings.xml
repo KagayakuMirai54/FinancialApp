@@ -1,0 +1,11 @@
+<resources>
+    <string name="hello_blank_fragment" translatable="false">Hello Blank Fragment</string>
+    <string name="app_name" translatable="false">Financial App</string>
+    <string-array name="Prodi">
+        <item>--Pilih--</item>
+        <item>Teknik Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik komputer</item>
+    </string-array>
+</resources>
